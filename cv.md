@@ -1,4 +1,4 @@
-1.	# Dmitry Cheplyanski
+1.	# Dmitry Cheplyanski 
 1.	# Tel.: +375 25 728 24 89; Email: cheplyanskii2011@mail.ru
 1.	*I graduated from the University in 2019. Аt the moment I work and study programming, because I want to do and earn what I like, and I make every effort to do this by studying something new and interesting. I feel comfortable working in a group of people and easily find a common language with them .*
 1.	*JS,HTML, CSS(SCSS), GIT*
