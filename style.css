@@ -17,16 +17,17 @@
 }
 
 .info__row {
+	padding-top: 30px;
 	display: flex;
 	flex-direction: row;
 	align-items: center;
-	justify-content: space-between;
+	
 }
 .foto
 {
 	position: relative;
 	top: 0;
-	padding-right: 30px;
+	padding-right: 200px;
 }
 .foto_face {
 	border-radius: 50%;
